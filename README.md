@@ -1,0 +1,2 @@
+# Gate-Keeper
+The city of Holyoke, MA proposed my TECH 5900 (Product Studio) multidisciplinary team the academic challenge of helping residents reduce their gas consumption and/or greenhouse gas emissions as we remove to a 100% renewable future. Over the course of the Fall 2019 semester, our team came up with Gate Keeper, a combination of hardware and software that controls your water heater to optimize energy use using Machine Learning. This repository shows my work on the front-end application - built with Flutter.
